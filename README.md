@@ -7,6 +7,7 @@
 **Tools used** : Selenium Web Driver, Cucumber, TestNG, JUnit, Maven
 
 ## Installation
+- Install Cucumber plugin on IDE
 - The chromedriver in it should be up to date.
 
 ## Scenarios
