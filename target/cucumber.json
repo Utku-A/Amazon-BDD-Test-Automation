@@ -1,0 +1,442 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4412748800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Navigate go to website",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.navigateGoToWebsite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 655277100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Cookies Accepted",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.cookiesAccepted()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-31T21:59:04.652Z",
+        "line": 17,
+        "name": "Add product to cart",
+        "description": "",
+        "id": "add-product-to-cart;add-product-to-cart;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4245151300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.LoginTests_Step.quit()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.quit()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 372882400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Search product enter \"iPhone\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"iPhone\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.searchProductEnter(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1876228600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click to search button",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.clickToSearchButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2290239900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Select search product \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"4\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.selectSearchProduct(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1434354700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Add to card",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.addToCard()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 145297600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Success message",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.successMessage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 3485510000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Navigate go to website",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.navigateGoToWebsite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 745051500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Cookies Accepted",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.cookiesAccepted()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-31T21:59:20.122Z",
+        "line": 18,
+        "name": "Add product to cart",
+        "description": "",
+        "id": "add-product-to-cart;add-product-to-cart;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 4209722200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.LoginTests_Step.quit()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.quit()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 258230600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Search product enter \"Samsung\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Samsung\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.searchProductEnter(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1645890800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click to search button",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.clickToSearchButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2366104500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Select search product \"6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"6\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.selectSearchProduct(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1353999300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Add to card",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.addToCard()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 165106100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Success message",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.successMessage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4468602700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Navigate go to website",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.navigateGoToWebsite()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 355898600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Cookies Accepted",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.cookiesAccepted()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-31T21:59:34.364Z",
+        "line": 19,
+        "name": "Add product to cart",
+        "description": "",
+        "id": "add-product-to-cart;add-product-to-cart;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 4193538200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.LoginTests_Step.quit()"
+            }
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.quit()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 193688400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Search product enter \"Huawei\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Huawei\"",
+                  "offset": 21
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.searchProductEnter(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2525361000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click to search button",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.clickToSearchButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2457905600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Select search product \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"1\"",
+                  "offset": 22
+                }
+              ],
+              "location": "StepDefinitions.AddToCardProduct_Step.selectSearchProduct(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1244289300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Add to card",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.addToCard()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 129904800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Success message",
+            "match": {
+              "location": "StepDefinitions.AddToCardProduct_Step.successMessage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@SmokeTest"
+          }
+        ]
+      }
+    ],
+    "name": "Add product to cart",
+    "description": "",
+    "id": "add-product-to-cart",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/AddToCardProduct.feature",
+    "tags": [
+      {
+        "name": "@SmokeTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

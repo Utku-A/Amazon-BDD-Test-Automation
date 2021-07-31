@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="45.518">
+    <testcase classname="Add product to cart" name="Add product to cart" time="15.457">
+        <system-out>
+            <![CDATA[Given Navigate go to website................................................passed
+And Cookies Accepted........................................................passed
+And Search product enter "iPhone"...........................................passed
+And Click to search button..................................................passed
+And Select search product "4"...............................................passed
+When Add to card............................................................passed
+Then Success message........................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Add product to cart" name="Add product to cart 2" time="14.232">
+        <system-out>
+            <![CDATA[Given Navigate go to website................................................passed
+And Cookies Accepted........................................................passed
+And Search product enter "Samsung"..........................................passed
+And Click to search button..................................................passed
+And Select search product "6"...............................................passed
+When Add to card............................................................passed
+Then Success message........................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Add product to cart" name="Add product to cart 3" time="15.575">
+        <system-out>
+            <![CDATA[Given Navigate go to website................................................passed
+And Cookies Accepted........................................................passed
+And Search product enter "Huawei"...........................................passed
+And Click to search button..................................................passed
+And Select search product "1"...............................................passed
+When Add to card............................................................passed
+Then Success message........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

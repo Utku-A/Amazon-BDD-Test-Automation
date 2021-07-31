@@ -1,0 +1,220 @@
+[
+  {
+    "source": "Navigate go to website",
+    "steps": [
+      {
+        "name": "Navigate go to website",
+        "aggregatedDurations": {
+          "median": 4.4127488,
+          "average": 4.122287166
+        },
+        "durations": [
+          {
+            "duration": 4.4127488,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:6"
+          },
+          {
+            "duration": 3.48551,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:6"
+          },
+          {
+            "duration": 4.4686027,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Cookies Accepted",
+    "steps": [
+      {
+        "name": "Cookies Accepted",
+        "aggregatedDurations": {
+          "median": 0.6552771,
+          "average": 0.585409066
+        },
+        "durations": [
+          {
+            "duration": 0.6552771,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:7"
+          },
+          {
+            "duration": 0.7450515,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:7"
+          },
+          {
+            "duration": 0.3558986,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Search product enter {string}",
+    "steps": [
+      {
+        "name": "Search product enter \"iPhone\"",
+        "aggregatedDurations": {
+          "median": 0.3728824,
+          "average": 0.3728824
+        },
+        "durations": [
+          {
+            "duration": 0.3728824,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "Search product enter \"Samsung\"",
+        "aggregatedDurations": {
+          "median": 0.2582306,
+          "average": 0.2582306
+        },
+        "durations": [
+          {
+            "duration": 0.2582306,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:10"
+          }
+        ]
+      },
+      {
+        "name": "Search product enter \"Huawei\"",
+        "aggregatedDurations": {
+          "median": 0.1936884,
+          "average": 0.1936884
+        },
+        "durations": [
+          {
+            "duration": 0.1936884,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click to search button",
+    "steps": [
+      {
+        "name": "Click to search button",
+        "aggregatedDurations": {
+          "median": 1.8762286,
+          "average": 2.0158268
+        },
+        "durations": [
+          {
+            "duration": 1.8762286,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:11"
+          },
+          {
+            "duration": 1.6458908,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:11"
+          },
+          {
+            "duration": 2.525361,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select search product {string}",
+    "steps": [
+      {
+        "name": "Select search product \"4\"",
+        "aggregatedDurations": {
+          "median": 2.2902399,
+          "average": 2.2902399
+        },
+        "durations": [
+          {
+            "duration": 2.2902399,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Select search product \"6\"",
+        "aggregatedDurations": {
+          "median": 2.3661045,
+          "average": 2.3661045
+        },
+        "durations": [
+          {
+            "duration": 2.3661045,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:12"
+          }
+        ]
+      },
+      {
+        "name": "Select search product \"1\"",
+        "aggregatedDurations": {
+          "median": 2.4579056,
+          "average": 2.4579056
+        },
+        "durations": [
+          {
+            "duration": 2.4579056,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Add to card",
+    "steps": [
+      {
+        "name": "Add to card",
+        "aggregatedDurations": {
+          "median": 1.3539993,
+          "average": 1.344214433
+        },
+        "durations": [
+          {
+            "duration": 1.4343547,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:13"
+          },
+          {
+            "duration": 1.3539993,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:13"
+          },
+          {
+            "duration": 1.2442893,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Success message",
+    "steps": [
+      {
+        "name": "Success message",
+        "aggregatedDurations": {
+          "median": 0.1452976,
+          "average": 0.1467695
+        },
+        "durations": [
+          {
+            "duration": 0.1452976,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:14"
+          },
+          {
+            "duration": 0.1651061,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:14"
+          },
+          {
+            "duration": 0.1299048,
+            "location": "file:///C:/Users/halis/Desktop/Amazon-Cucumber-Automation/src/test/java/AddToCardProduct.feature:14"
+          }
+        ]
+      }
+    ]
+  }
+]
