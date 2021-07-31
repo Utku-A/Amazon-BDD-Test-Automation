@@ -9,7 +9,7 @@
 ## Installation
 - The chromedriver in it should be up to date.
 
-## Tests
+## Scenarios
 - Add to card search product
 - Login test
 - Buy now select product
